@@ -1,0 +1,23 @@
+{
+  "id": "2274869",
+  "name": "login",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-login-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11262005",
+      "name": "个人中心",
+      "font_class": "ren",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16846857",
+      "name": "密 码",
+      "font_class": "mima",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    }
+  ]
+}
